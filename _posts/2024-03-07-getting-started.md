@@ -20,7 +20,7 @@ Oi, esse vai ser o meu blog virtual. Quero compartilhar com vocês meu projeto d
 
 Meu blog é um ambiente controlado onde posso experimentar com tecnologias diversas, testar cenários e aprender sem restrições, aqui eu vou poder compartilhar esse conhecimento, ajudar a comunidade e usar isso para fixar o conteúdo que foi apresentado.
 
-## Objetivos do Site
+## Objetivos
 
 - Registrar meus projetos e descobertas.
 - Compartilhar conhecimento e experiências.
@@ -28,5 +28,5 @@ Meu blog é um ambiente controlado onde posso experimentar com tecnologias diver
 
 ## O que Esperar
 
-Preparem-se para uma jornada de conhecimento! Você vai encontrar artigos, tutoriais e dicas sobre tecnologias como Docker, Kubernetes, Linux, redes e segurança da informação.
+Preparem-se para uma jornada de conhecimento! Você vai encontrar artigos, tutoriais e dicas sobre tecnologias como Docker, Kubernetes, Linux, redes, programação e segurança da informação.
 
