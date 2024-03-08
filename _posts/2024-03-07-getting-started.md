@@ -6,6 +6,27 @@ tags: [post]     # TAG names should always be lowercase
 ---
 
 ```shell
-echo 'No more line numbers!'
+echo 'Bem vindos'
 ```
 {: .nolineno }
+
+
+# Homelab: Um Registro de Conhecimento
+
+
+Oi, esse vai ser o meu homelab virtual. Quero compartilhar com vocês meu projeto de homelab hospedado no GitHub, onde documentarei minhas descobertas e aprendizados, eu gosto dessa idéia porque é totalmente grátis e dinamico.
+
+## Sobre meu Homelab
+
+Meu homelab é um ambiente controlado onde posso experimentar com tecnologias diversas, testar cenários e aprender sem restrições, aqui eu vou poder compartilhar esse conhecimento, ajudar a comunidade e usar isso para fixar o conteúdo que foi apresentado.
+
+## Objetivos do Site
+
+- Registrar meus projetos e descobertas.
+- Compartilhar conhecimento e experiências.
+- Estimular a curiosidade e o aprendizado mútuo.
+
+## O que Esperar
+
+Preparem-se para uma jornada de conhecimento! Você vai encontrar artigos, tutoriais e dicas sobre tecnologias como Docker, Kubernetes, Linux, redes e segurança da informação.
+
