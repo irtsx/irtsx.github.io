@@ -202,5 +202,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-    
-gems: ["jemoji"]
+
+plugins:
+  - jemoji

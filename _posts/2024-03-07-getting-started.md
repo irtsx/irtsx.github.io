@@ -30,13 +30,3 @@ Meu blog é um ambiente controlado onde posso experimentar com tecnologias diver
 
 Preparem-se para uma jornada de conhecimento! Você vai encontrar artigos, tutoriais e dicas sobre tecnologias como Docker, Kubernetes, Linux, redes e segurança da informação.
 
-:thumbsup:
-:heart:
-:fire:
-:rocket:
-:star:
-:tada:
-:speech_balloon:
-:muscle:
-:sparkles:
-:sunglasses:
