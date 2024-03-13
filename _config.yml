@@ -50,10 +50,10 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-5SFY2RK6R6 # fill in your Google Analytics ID
 
 goatcounter:
-  id: G-5SFY2RK6R6 # fill in your Goatcounter ID
+  id: # fill in your Goatcounter ID
 
 # Prefer color scheme setting.
 #
